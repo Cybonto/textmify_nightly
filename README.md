@@ -41,7 +41,7 @@ A tool to translate various document formats to Markdown using IBM Docling, with
    ```
 4. Run the installer:
    ```
-   ./install.sh
+   sh ./install.sh
    ```
 
 The installer will:
@@ -57,7 +57,7 @@ The installer will:
 Before using the tool, activate the virtual environment:
 - **Windows**:
   ```
-  call venv\Scripts\activate
+  venv\Scripts\activate
   ```
 - **macOS/Linux**:
   ```
